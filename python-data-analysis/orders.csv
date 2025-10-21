@@ -1,0 +1,7 @@
+OrderID,CustomerID,OrderDate,SKU,ProductName,Quantity,Price,State
+1001,1,2025-01-10,SKU-100,Wireless Mouse,2,19.99,NY
+1002,1,2025-02-02,SKU-200,Mechanical Keyboard,1,79.99,NY
+1003,2,2025-02-20,SKU-100,Wireless Mouse,5,19.99,MA
+1004,3,2025-03-05,SKU-300,USB-C Hub,3,24.99,GA
+1005,4,2025-03-09,SKU-400,27in Monitor,1,199.99,WA
+1006,4,2025-04-01,SKU-200,Mechanical Keyboard,2,79.99,WA

@@ -1,0 +1,4 @@
+RMAID,OrderID,RMAReason,Status,Step,CreatedAt
+5001,1001,Defective,Open,Inspect Item,2025-04-10
+5002,1003,Wrong Item,Complete,Credit Customer Account,2025-04-22
+5003,1004,Damaged in Transit,Open,Request Photos,2025-05-01
